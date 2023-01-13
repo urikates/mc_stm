@@ -1,0 +1,33 @@
+!SESSION 2022-06-27 22:04:41.853 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\urika\Desktop\Embedded-C\My_workspace\host
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-27 22:04:46.746
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-27 22:04:46.799
+!MESSAGE Log4j initialized with config file C:\Users\urika\Desktop\Embedded-C\My_workspace\host\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-27 22:04:49.226
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-07-04 21:28:26.257 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-04 21:28:45.767
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-04 21:28:45.833
+!MESSAGE Log4j initialized with config file C:\Users\urika\Desktop\Embedded-C\My_workspace\host\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-04 21:28:49.803
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-04 21:30:03.539
+!MESSAGE Indexed 'testproject' (0 sources, 0 headers) in 0.002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
